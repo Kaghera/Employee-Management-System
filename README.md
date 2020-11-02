@@ -1,6 +1,6 @@
 # Employee Tracker
 
-An Emplotee Management System which make it easy for user to view and store employee information in the database using node, inquirer, and MySQL.
+An Emplotee Management System which makes it easier for user to view and store employee information in the database using node, inquirer, and MySQL.
 
 ## Instructions
 
